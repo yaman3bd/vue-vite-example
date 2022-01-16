@@ -54,7 +54,36 @@ macbook pro core i7
 ```
 and the problem still the same
 
-
+Windows 10 system info:
+```bash
+  System:
+    OS: Windows 10 10.0.19042
+    CPU: (12) x64 Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+    Memory: 2.08 GB / 15.88 GB
+  Binaries:
+    Node: 14.17.1
+    Yarn: 1.22.10
+    npm: 6.14.13
+  Browsers:
+    Edge: Spartan (44.19041.1266.0), 
+    Chromium (97.0.1072.62)
+    Internet Explorer: 11.0.19041.1202
+```
+MacBook Pro M1 pro system info:
+```bash
+System:
+    OS: macOS 12.0.1
+    CPU: (10) arm64 Apple M1 Pro
+    Memory: 9.55 GB / 32.00 GB
+    Shell: 3.3.1
+  Binaries:
+    Node: 14.18.2
+    Yarn: 1.22.17
+    npm: 8.1.4
+  Browsers:
+    Chrome: 97.0.4692.71
+    Safari: 15.1
+```
 ## Note
 try to build the lib using vite version:
 ```
