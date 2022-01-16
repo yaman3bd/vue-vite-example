@@ -56,7 +56,7 @@ and the problem still the same
 
 
 ## Note
-try to build the lib usine vite version:
+try to build the lib using vite version:
 ```
 "vite": "2.4.3"
 ```
